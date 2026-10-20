@@ -1,2 +1,2 @@
 # VibranceX
-extreme digital vibrance program 
+An extreme digital vibrance program made in C++ that utilizes lightweight libraries and native NVIDIA/AMD drivers. 
